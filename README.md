@@ -28,7 +28,7 @@ All colors except for alerts, badges, and labels were completely desaturated (i.
 * Labels - Yes 
 * Badges - Yes 
 * Jumbotron - No
-* Thumbnails - No
+* Thumbnails - Yes
 * Alerts - Yes 
 * Progress bars - No
 * Media items - Yes 

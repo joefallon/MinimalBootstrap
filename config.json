@@ -392,10 +392,11 @@
     "glyphicons.less",
     "labels.less",
     "badges.less",
+    "thumbnails.less",
     "alerts.less",
     "media.less",
     "responsive-embed.less"
   ],
   "js": [],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=bf4b7be5cf9b71ae35ed"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=73a58cdd1da1e5c92444"
 }
