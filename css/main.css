@@ -1,16 +1,31 @@
 /* main.css */
 
-.green-background
+.dev-green
 {
     background-color: #CAFFD8;
 }
 
-.pink-background
+.dev-pink
 {
     background-color: #FFCEFF;
 }
 
-.blue-background
+.dev-blue
 {
     background-color: #AAAAFF;
+}
+
+.dev-orange
+{
+    background-color: #FAE1C6;
+}
+
+.dev-purple
+{
+    background-color: #DCDCF6;
+}
+
+.dev-yellow
+{
+    background-color: #F6F6DC;
 }

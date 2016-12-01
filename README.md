@@ -17,7 +17,7 @@ All colors except for alerts, badges, and labels were completely desaturated (i.
 
 ## Components
 
-* Glyphicons - Yes 
+* Glyphicons - No 
 * Button groups - No
 * Input groups - No
 * Navs - No

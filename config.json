@@ -389,7 +389,6 @@
     "forms.less",
     "buttons.less",
     "responsive-utilities.less",
-    "glyphicons.less",
     "labels.less",
     "badges.less",
     "thumbnails.less",
@@ -398,5 +397,5 @@
     "responsive-embed.less"
   ],
   "js": [],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=c6083e3e6be93bb6196a3bd41f8414a0"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=1392fc6c05c5d8f7aca6481fdcbbd8fa"
 }
