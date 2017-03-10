@@ -1,8 +1,22 @@
 # MinimalBootstrap
+
 Bootstrap with just the basics and no JavaScript functionality.
 
+
+## Updating
+
+1. Upload the existing `config.json` file to the customize 
+   section of the bootstrap [website](http://getbootstrap.com/customize/). 
+2. Adjust options as needed.
+3. Download the new version. Rename `bootstrap.css` to `bootstrap.custom.css`. 
+4. Rename `bootstrap.min.css` to `bootstrap.custom.min.css`.
+
+
 ## Colors
-All colors except for alerts, badges, and labels were completely desaturated (i.e. grayscale).
+
+All colors except for alerts, badges, and labels are completely desaturated 
+(i.e. grayscale).
+
 
 ## Common CSS
 
@@ -14,6 +28,7 @@ All colors except for alerts, badges, and labels were completely desaturated (i.
 * Forms - Yes
 * Buttons - Yes
 * Responsive utilities - Yes 
+
 
 ## Components
 
@@ -38,10 +53,12 @@ All colors except for alerts, badges, and labels were completely desaturated (i.
 * Wells - No
 * Close icon - No
 
+
 ## JavaScript Components
 
-None.
+None selected.
+
 
 ## jQuery Plugins
 
-None.
+None selected.
